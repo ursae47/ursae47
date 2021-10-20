@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ursae47
-- 👀 I’m interested in physics of electromagnetism
+- 👀 I’m interested in the physics of electromagnetism, antennas, & radio.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing really..
 - 📫 I can be reached by email to discuss radio physics or solar physics.
